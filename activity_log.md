@@ -5,3 +5,4 @@
 - [2026-05-10T14:23:10Z] docs: update README with usage examples
 - [2026-05-10T11:00:40Z] test: add unit tests for core module
 - [2026-05-10T21:48:41Z] fix: resolve edge case in input validation
+- [2026-05-10T13:16:10Z] test: add unit tests for core module
