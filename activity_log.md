@@ -7,3 +7,4 @@
 - [2026-05-10T21:48:41Z] fix: resolve edge case in input validation
 - [2026-05-10T13:16:10Z] test: add unit tests for core module
 - [2026-05-10T08:19:04Z] perf: optimize loop for better performance
+- [2026-05-10T11:52:22Z] feat: add helper utility function
